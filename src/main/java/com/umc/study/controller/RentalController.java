@@ -1,6 +1,6 @@
-package com.umca.study.controller;
+package com.umc.study.controller;
 
-import com.umca.study.service.RentalService;
+import com.umc.study.service.RentalService;
 import java.util.Map;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;

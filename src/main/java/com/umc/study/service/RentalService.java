@@ -1,6 +1,6 @@
-package com.umca.study.service;
+package com.umc.study.service;
 
-import com.umca.study.repository.RentalRepository;
+import com.umc.study.repository.RentalRepository;
 import java.util.Map;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

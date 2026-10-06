@@ -1,6 +1,6 @@
-package com.umca.study.service;
+package com.umc.study.service;
 
-import com.umca.study.repository.BookRepository;
+import com.umc.study.repository.BookRepository;
 import java.util.List;
 import java.util.Map;
 import lombok.RequiredArgsConstructor;

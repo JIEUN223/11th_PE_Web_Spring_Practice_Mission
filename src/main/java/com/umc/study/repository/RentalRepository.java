@@ -1,4 +1,4 @@
-package com.umca.study.repository;
+package com.umc.study.repository;
 
 import java.util.Map;
 import lombok.RequiredArgsConstructor;

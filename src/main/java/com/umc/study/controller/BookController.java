@@ -1,6 +1,6 @@
-package com.umca.study.controller;
+package com.umc.study.controller;
 
-import com.umca.study.service.BookService;
+import com.umc.study.service.BookService;
 import java.util.List;
 import java.util.Map;
 import lombok.RequiredArgsConstructor;
