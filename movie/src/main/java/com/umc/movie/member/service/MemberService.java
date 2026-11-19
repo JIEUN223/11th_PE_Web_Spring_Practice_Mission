@@ -85,6 +85,7 @@ public class MemberService {
         return MemberInfoResponse.from(member);
     }
 
+    @Transactional
     public MemberInfoResponse updateMyInfo(Long memberId, MemberUpdateRequest request){
         Member member = memberRepository.findById(memberId)
                 .orElseThrow(() -> new ApiException(ErrorCode.MEMBER_NOT_FOUND));
